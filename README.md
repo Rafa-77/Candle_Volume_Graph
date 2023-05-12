@@ -6,7 +6,11 @@ And a financial graph is made, where one can enter the information from Yahoo Fi
 of any stock or index and obtain a candlestick graph reflecting the prices. 
 Where if you hover over the graph, you will be able to see the price.
 
-![](/Images/Candle.png)
+
+
+<p align="center">
+    <img src="https://github.com/Rafa-77/Candle_Volume_Graph/blob/main/Images/Candle.png" width="550" height="500">
+</p>
 
 Also a volume graph. Where if you hover over the graph, you will be able to see the volume.
 
