@@ -64,8 +64,9 @@ Then it creates the volumne graph just like in Main.R
 </p>
 
 Finally it proceeds to create a graph for each one of the indicators and joins them all in a single graph.
+Where also if you hover over hte graph you wil see the particular data, including that of the indicators.
 
 <p align="center">
-    <img src="https://github.com/Rafa-77/Candle_Volume_Graph/blob/main/Images/Main2-fig1-3.png" width="800" height="400">
+    <img src="https://github.com/Rafa-77/Candle_Volume_Graph/blob/main/Images/Main2-fig1-4.png" width="850" height="400">
 </p>
 2. 
