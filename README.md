@@ -9,7 +9,7 @@ Where if you hover over the graph, you will be able to see the price.
 
 
 <p align="center">
-    <img src="https://github.com/Rafa-77/Candle_Volume_Graph/blob/main/Images/Candle.png" width="550" height="500">
+    <img src="https://github.com/Rafa-77/Candle_Volume_Graph/blob/main/Images/Candle.png" width="550" height="400">
 </p>
 
 Also a volume graph. Where if you hover over the graph, you will be able to see the volume.
