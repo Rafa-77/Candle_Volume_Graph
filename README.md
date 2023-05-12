@@ -14,8 +14,13 @@ Where if you hover over the graph, you will be able to see the price.
 
 Also a volume graph. Where if you hover over the graph, you will be able to see the volume.
 
-![](/Images/Volume.png)
+<p align="center">
+    <img src="https://github.com/Rafa-77/Candle_Volume_Graph/blob/main/Images/Volume.png" width="550" height="400">
+</p>
 
 So that in the end I attach both graphs in one.
 
-![](/Images/Joined.png)
+
+<p align="center">
+    <img src="https://github.com/Rafa-77/Candle_Volume_Graph/blob/main/Images/Joined.png" width="550" height="400">
+</p>
