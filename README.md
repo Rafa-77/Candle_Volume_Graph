@@ -69,4 +69,21 @@ Where also if you hover over hte graph you wil see the particular data, includin
 <p align="center">
     <img src="https://github.com/Rafa-77/Candle_Volume_Graph/blob/main/Images/Main2-fig1-4.png" width="850" height="400">
 </p>
+
+
+---
+---
+## Part3 - Main3.R
+
+In the last part I join all the coding in an interactive environment using shinyApp.
+The environment allows you to input diferent start and end dates, as well as the ticker you want, as long as it
+is available in Yahoo Finance. When you press **RUN** it stores the data in the "DATA" tab.
+The "Plot" tab as it´s name suggest is the candle, with the option to reduce the time scope and hover over to show the prices.
+At the bottom there is a list of inidcators to choose, then when tou press **START INDICATORS** the plot changes, 
+if you remove the selection the plot also refreshes itself and the indicator desappears.
+The interactivity of narrowing the data range remains. 
+
+<p align="center">
+    <img src="https://github.com/Rafa-77/Candle_Volume_Graph/blob/main/Images/Final.png" width="850" height="400">
+</p>
 2. 
