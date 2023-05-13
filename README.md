@@ -86,4 +86,3 @@ The interactivity of narrowing the data range remains.
 <p align="center">
     <img src="https://github.com/Rafa-77/Candle_Volume_Graph/blob/main/Images/Final.png" width="850" height="400">
 </p>
-2. 
